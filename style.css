@@ -1,0 +1,28 @@
+body{
+    background: url(./assets/Imagenes/img_PLC.jpg);
+ 
+}
+
+.fotoTiaPortal{
+    width: 60% !important;
+    margin-left: 20%;
+}
+.card{
+    width: 80%;
+    margin-left: 10%;
+}
+/*.imgIcono{
+    width: 20%;
+}*/
+.list{
+    list-style-type: none;
+}
+.redes{
+    list-style-type: none;
+}
+
+@media(min-width:768px){
+    #nombre{
+        margin-top: 30px !important;
+    }
+}
