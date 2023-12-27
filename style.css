@@ -2,7 +2,9 @@ body{
     background: url(./assets/Imagenes/img_PLC.jpg);
  
 }
-
+header{
+    background: url(./assets/Imagenes/imgPLC2.png);
+}
 .fotoTiaPortal{
     width: 60% !important;
     margin-left: 20%;
