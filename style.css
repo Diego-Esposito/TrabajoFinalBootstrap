@@ -27,4 +27,10 @@ body{
     #nombre{
         margin-top: 30px !important;
     }
+    .formulario{
+        width: 50% !important;
+    }
+    .textFormulario{
+        width: 75% !important;
+    }
 }
