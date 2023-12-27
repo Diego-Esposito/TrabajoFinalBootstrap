@@ -20,12 +20,13 @@ body{
 .redes{
     list-style-type: none;
 }
-#botonArriba{
-    right: 50px !important;
-}
+
 @media(min-width:768px){
     #nombre{
         margin-top: 30px !important;
+    }
+    #botonArriba{
+        right: 50px !important;
     }
     .formulario{
         width: 50% !important;
