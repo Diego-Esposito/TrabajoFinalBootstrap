@@ -33,4 +33,7 @@ body{
     .textFormulario{
         width: 75% !important;
     }
+    #infoContacto{
+        width: 40%;
+    }
 }
